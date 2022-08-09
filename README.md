@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/_alexisrodri_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_alexisrodri_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-avila-685a39172/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-avila-685a39172/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009180977386" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009180977386" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/lale_avila/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lale_avila/" height="30" width="40" /></a>
 </p>
 
