@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **React, firebase and Node**
+- 🌱 I’m currently learning ** React, React native, Dart, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://ar-alexisrodri.vercel.app/](https://ar-alexisrodri.vercel.app/)
 
-- 💬 Ask me about **React and Javascript**
+- 💬 Ask me about **React, Javascript, Dart**
 
 - 📫 How to reach me **Niter_alex@hotmail.com**
 
