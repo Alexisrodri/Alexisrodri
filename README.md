@@ -1,4 +1,4 @@
-![image](https://github.com/Alexisrodri/Alexisrodri/assets/84880348/2a0ac698-3c80-40df-adc0-6e1ef4d70690)# Hola, soy Alex.
+# Hola, soy Alex.
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software con experiencia en el desarrollo front-end y mobile. Me encanta trabajar en proyectos creativos que desafíen mis habilidades y me permitan aprender nuevas tecnologías.
 
