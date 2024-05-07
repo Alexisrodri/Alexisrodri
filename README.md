@@ -1,4 +1,4 @@
-# Hola, soy Alexis Rodríguez
+# Hola, soy Alex.
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software con experiencia en el desarrollo front-end y mobile. Me encanta trabajar en proyectos creativos que desafíen mis habilidades y me permitan aprender nuevas tecnologías.
 
