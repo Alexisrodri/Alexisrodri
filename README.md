@@ -1,17 +1,42 @@
-<h1 align="center">Hi 👋, I'm Alex avila.</h1>
-<h3 align="center">Front end Dev: Apasionado por el diseño de interfaces agradables para el usuario.</h3>
+# Hola, soy Alexis Rodríguez
 
-- 💬 Ask me about **React, react native, dart, flutter**
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software con experiencia en el desarrollo front-end y mobile. Me encanta trabajar en proyectos creativos que desafíen mis habilidades y me permitan aprender nuevas tecnologías.
 
-- 📫 How to reach me **Niter_alex@hotmail.com**
+## Sobre mí
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/https://ar-portafolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://ar-portafolio.vercel.app/" height="30" width="40" /></a> -->
-<a href="https://twitter.com/_alexisrodri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_alexisrodri_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexisavila68/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexisavila68/" height="30" width="40" /></a>
-<a href="https://instagram.com/lale_avila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lale_avila" height="30" width="40" /></a>
-</p>
+Soy un desarrollador entusiasta con un enfoque en la creación de experiencias digitales atractivas y funcionales. Mi viaje en el mundo del desarrollo comenzó hace [número de años] años y desde entonces he estado explorando y aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+En mi tiempo libre, disfruto explorar nuevas tecnologías, contribuir a proyectos de código abierto y compartir conocimientos a través de blogs y tutoriales.
+
+## Tecnologías
+
+Aquí están algunas de las tecnologías con las que trabajo:
+
+### Front-end
+
+- HTML5
+- CSS3 (incluyendo preprocessors como Sass y LESS)
+- JavaScript (ES6+)
+- Frameworks: React.js, Vue.js
+- Gestión de estado: Redux, Vuex
+- Diseño responsivo y CSS Grid / Flexbox
+
+### Mobile
+
+- React Native
+- Flutter
+- Kotlin (Android)
+- Swift (iOS)
+- Diseño de interfaces de usuario móvil
+
+## Contacto
+
+Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en ponerte en contacto:
+
+- Correo electrónico: [tu@email.com]
+- LinkedIn: [tu perfil de LinkedIn]
+- Twitter: [@tu_usuario_de_twitter]
+- Sitio web: [tu_sitio_web]
+
+¡Espero que encuentres interesante mi trabajo!
+
