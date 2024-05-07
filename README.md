@@ -1,4 +1,4 @@
-# Hola, soy Alex.
+![image](https://github.com/Alexisrodri/Alexisrodri/assets/84880348/2a0ac698-3c80-40df-adc0-6e1ef4d70690)# Hola, soy Alex.
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software con experiencia en el desarrollo front-end y mobile. Me encanta trabajar en proyectos creativos que desafíen mis habilidades y me permitan aprender nuevas tecnologías.
 
@@ -16,7 +16,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 ### Mobile
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 ## Contacto
 
