@@ -22,10 +22,12 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en ponerte en contacto:
 
-- Correo electrónico: [tu@email.com]
-- LinkedIn: [tu perfil de LinkedIn]
-- Twitter: [@tu_usuario_de_twitter]
-- Sitio web: [tu_sitio_web]
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexisavila68/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexisavila68/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
 ¡Espero que encuentres interesante mi trabajo!
 
